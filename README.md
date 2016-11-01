@@ -9,5 +9,5 @@ This app helps the user to focus on the good stuff what happened during the day 
 
 <img src="https://github.com/Mira15/Glueckstagebuch/blob/master/Screenshot_2016-11-01-20-57-50.png" width="300"/>
 <img src="https://github.com/Mira15/Glueckstagebuch/blob/master/Screenshot_2016-11-01-20-59-16.png" width="300"/>
-<img src="https://github.com/Mira15/Glueckstagebuch/blob/master/Screenshot_2016-11-01-21-02-13.png" width="300"/>
 <img src="https://github.com/Mira15/Glueckstagebuch/blob/master/Screenshot_2016-11-01-20-59-36.png" width="300"/>
+<img src="https://github.com/Mira15/Glueckstagebuch/blob/master/Screenshot_2016-11-01-21-02-13.png" width="300"/>
